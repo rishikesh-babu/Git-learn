@@ -5,9 +5,10 @@ import Navbar from './Component/Navbar'
 function App() {
     return (
         <>
-            nav 
-            layout commit  
-            <Footer /> 
+            <Navbar />
+            <Layout />
+            <Footer />
+            main
         </>
     )
 }
