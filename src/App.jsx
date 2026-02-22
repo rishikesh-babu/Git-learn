@@ -6,7 +6,7 @@ function App() {
     return (
         <>
             nav commit 
-            layout commit  
+            <Layout />
             footer commit
         </>
     )
